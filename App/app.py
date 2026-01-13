@@ -282,6 +282,6 @@ elif menu == "👨‍💻 About Project":
 
     col1, col2 = st.columns(2)
     with col1:
-        st.link_button("💼 LinkedIn", "https://www.linkedin.com/")
+        st.link_button("💼 LinkedIn", "https://www.linkedin.com/in/kornu-sai-govinda-rao-b077a9286/")
     with col2:
-        st.link_button("📂 GitHub", "https://github.com/")
+        st.link_button("📂 GitHub", "https://github.com/sai-govinda-rao/Air-Pollution-Analysis-Classification-")
